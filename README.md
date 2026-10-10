@@ -1,6 +1,6 @@
 # Python Training
 
-## Introduction
+## Introduction (https://youtu.be/QpkqviVokVU)
 
 ## Flow Control
 
