@@ -9,3 +9,17 @@
 ## Collections
 
 ## String & File Handling
+
+## Exception Handling
+
+## Advanced Functions
+
+## Advanced Decorators
+
+## Iterables & Iterators
+
+## Generators & Coroutines
+
+## Modules
+
+## Object Oriented Programming
